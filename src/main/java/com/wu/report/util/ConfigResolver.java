@@ -2,7 +2,8 @@
 package com.wu.report.util;
 
 
-import com.wu.report.model.*;
+import com.wu.report.baseModel.*;
+import com.wu.report.dataMerge.SlideData;
 import org.apache.commons.lang3.StringUtils;
 //import org.apache.poi.POIXMLDocumentPart;
 import org.apache.poi.ooxml.POIXMLDocumentPart;

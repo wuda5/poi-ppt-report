@@ -1,4 +1,4 @@
-package com.wu.report.model;
+package com.wu.report.baseModel;
 
 /**
  * <b><code>ChartCategory</code></b>

@@ -1,9 +1,10 @@
 package com.wu.report.util;
 
 
+import com.wu.report.dataMerge.SlideData;
 import com.wu.report.exception.ReportErrorEnum;
 import com.wu.report.exception.ReportExcetion;
-import com.wu.report.model.*;
+import com.wu.report.baseModel.*;
 //import org.apache.poi.POIXMLDocumentPart;
 import org.apache.poi.hssf.util.CellReference;
 import org.apache.poi.ooxml.POIXMLDocumentPart;

@@ -1,6 +1,7 @@
 package com.wu.report.app;
 
-import com.wu.report.model.*;
+import com.wu.report.baseModel.*;
+import com.wu.report.dataMerge.SlideData;
 import com.wu.report.util.PowerPointGenerator;
 
 import java.io.File;
